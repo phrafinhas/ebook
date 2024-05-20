@@ -7,7 +7,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 📕**Clique aqui para ler**
 
-[E-book comandos básicos do Mysql]
+[E-book comandos básicos do Mysql](https://github.com/phrafinhas/ebook/blob/main/e-book.pdf)
 
 
 💻 **Tecnologias utilizadas no projeto**
