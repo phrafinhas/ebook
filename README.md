@@ -1,3 +1,4 @@
+
 **Projeto EBOOK Gerado por I.A.s**
 
 ℹ️   **NOTE**: Este é o repositório desenvolvido durante o curso no qual fui aluno  na plataforma da DIO
@@ -42,6 +43,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
  [Github](https://github.com/phrafinhas/) | 
  [LinkedIn](www.linkedin.com/in/raphael-rodrigues-545a79245)  
+
 
 
 
